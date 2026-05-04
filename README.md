@@ -1,54 +1,77 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=CCCCCC&center=true&vCenter=true&width=600&lines=Minecraft+Server+Project;Ольга+Рям+%7C+HeziMabye;web.kareto.fun" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&lines=🔥+Minecraft+Server+Project;⚡+Ольга+Рям+%7C+HeziMabye;🌍+web.kareto.fun;🚀+Создаём+сервер+для+игроков" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LXxWO0pgGEfgD9e8n5/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="650" />
 </p>
 
 ---
 
-# 🧱 Minecraft сервер
+# 🧱🔥 MINECRAFT SERVER PROJECT
 
-Мы занимаемся разработкой и поддержкой Minecraft сервера.
+<p align="center">
+  <b>Большой проект по созданию и развитию Minecraft сервера</b>
+</p>
 
-Проект делается для комфортной игры, стабильной работы и новых механик.
+<p align="center">
+  мы не просто держим сервер — мы его постоянно развиваем, улучшаем и добавляем новые механики
+</p>
 
 ---
 
-## 🌐 Сервер
+## 🌐 САЙТ СЕРВЕРА
 
 <p align="center">
   <a href="https://web.kareto.fun">
-    <img src="https://img.shields.io/badge/сайт-web.kareto.fun-1f1f1f?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌍_WEB-web.kareto.fun-0d0d0d?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👤 Контакты
+## 👤 КОМАНДА
 
 <p align="center">
   <a href="https://t.me/ryamolga">
-    <img src="https://img.shields.io/badge/Telegram-Ольга_Рям-2b2b2b?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/👤_Ольга_Рям-telegram-2b2b2b?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚙️ О проекте
+## ⚙️ ЧТО МЫ ДЕЛАЕМ
 
-- стабильная работа сервера  
-- кастомные механики  
-- развитие и обновления  
-- фокус на комфорт игроков  
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" />
+</p>
+
+- ⚡ стабильный сервер без лагов  
+- 🧠 кастомные системы и механики  
+- 🎮 улучшение геймплея  
+- 🔧 постоянные обновления  
+- 🚀 развитие проекта 24/7  
 
 ---
 
-## 🚀 Статус
+## 🚀 СТАТУС ПРОЕКТА
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=aaaaaa&center=true&vCenter=true&width=500&lines=сервер+в+разработке;обновления+регулярно;идёт+активная+работа" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff5555&center=true&vCenter=true&width=600&lines=🔥+АКТИВНАЯ+РАЗРАБОТКА;⚡+ОБНОВЛЕНИЯ+ИДУТ+ПОСТОЯННО;🚀+СЕРВЕР+РАСТЁТ" />
+</p>
+
+---
+
+## 💥 БЫСТРЫЙ ДОСТУП
+
+<p align="center">
+  <a href="https://web.kareto.fun">
+    <img src="https://img.shields.io/badge/👉_Перейти_на_сайт-FF5555?style=for-the-badge" />
+  </a>
+
+  <a href="https://t.me/ryamolga">
+    <img src="https://img.shields.io/badge/💬_Telegram_Ольга-2CA5E0?style=for-the-badge" />
+  </a>
 </p>
